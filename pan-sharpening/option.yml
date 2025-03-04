@@ -6,7 +6,7 @@
 # 
 
 name: Net
-algorithm: frepanmamba_draft_mambaIR #frepanmamba_draft_new   # pnn #frepanmamba_draft_new  #panmamba_baseline_finalversion #frepanmamba_draft_new.py #panmamba_baseline_finalversion #maunetv4_ns #ugcn_s4nba0  pan_unfolding_v4
+algorithm: baseResMambaIRConv #frepanmamba_draft_mambaIR #frepanmamba_draft_new   # pnn #frepanmamba_draft_new  #panmamba_baseline_finalversion #frepanmamba_draft_new.py #panmamba_baseline_finalversion #maunetv4_ns #ugcn_s4nba0  pan_unfolding_v4
 nEpochs: 200
 gpu_mode: True
 save_best: True
